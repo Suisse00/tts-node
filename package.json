@@ -1,6 +1,6 @@
 {
   "name": "tts-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a wrapper on top of ts-node to use ttypescript",
   "main": "index.js",
   "keywords": [
