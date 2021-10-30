@@ -1,1 +1,1 @@
-require("../ts-node").register({compiler: 'ttypescript'});
+require('ts-node').register({ compiler: 'ttypescript' });
