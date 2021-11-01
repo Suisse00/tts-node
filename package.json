@@ -1,6 +1,6 @@
 {
-  "name": "@tbn/tts-node",
-  "version": "1.0.0",
+  "name": "tts-node",
+  "version": "1.0.2",
   "description": "a wrapper on top of ts-node to use ttypescript",
   "main": "index.js",
   "keywords": [
@@ -11,9 +11,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheBotlyNoob/tts-node.git"
+    "url": "https://github.com/suisse00/tts-node.git"
   },
-  "homepage": "https://github.com/TheBotlyNoob/tts-node",
+  "homepage": "https://github.com/suisse00/tts-node",
   "peerDependencies": {
     "ts-node" : "*",
     "ttypescript" : "*"
